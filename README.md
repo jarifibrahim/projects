@@ -20,7 +20,9 @@ other accounts/orgs to appear on your dashboard, use `data-additional`. This
 is a comma-separated list of `<organization>/<repo>` values.
 
 Commit, push to `<username>.github.io` and visit `<username>.github.io` to see the results.
+
 OR
+
 Commit, push to `gh-pages` branch of working `<repository>` and visit `<username>.github.io/<repository>`
 
 LICENSE
